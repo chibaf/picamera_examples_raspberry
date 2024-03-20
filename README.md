@@ -20,3 +20,16 @@ PICAMERA
   203  pip3 install numpy --upgrade --break-system-packages
   
   205  pip3 install picamera2 --break-system-packages
+
+picamera2でカメラのオートフォーカスを調整する（Raspberry Pi、Python） ｜Marupeke-IKD
+
+https://note.com/marupeke296/n/ne287ab237a5d
+
+Raspberry Pi 4のカメラのマニュアルフォーカスをテストしてみると…注意点がありました（Python、picamera2）｜Marupeke-IKD
+
+https://note.com/marupeke296/n/nc3a856f95279
+
+Raspberry Pi 公式カメラモジュールV2のピントの調整方法 #RaspberryPi - Qiita
+
+https://qiita.com/tamamori/items/f1a4d7d9aa70e266bebc
+
